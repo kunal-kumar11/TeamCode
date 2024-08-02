@@ -1,4 +1,4 @@
-# **TEAMCODE | FULL STACK**
+# **TEAMCODE**
 
 ## **Overview**
 
